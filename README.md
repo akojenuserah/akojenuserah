@@ -17,6 +17,7 @@
 ---
 
 ### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 👋 Hi, my name is Paulina John.
 👀 I am a Data Professional, and Ingressive for Good Alumnus, interested in Data Science, Machine Learning and HR Analytics. Industries I am most interested in are the Human Resources, Finance, Transport, Real Estate and mainstream Tech industries.
