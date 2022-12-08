@@ -19,7 +19,8 @@
 ### :woman_technologist: About Me :
 I am a Data Scientist | Geospatial Scientist.
 
-👀 I am currently Studying Data Science and AI as a Women Techsters Fellow, and tools I use most frequently are Machine Learning, Python, Power BI, Tableau, Microsoft Excel and PostgressSQL.
+👀 I am currently Studying Data Science and AI as a Women Techsters Fellow.
+👀 The tools I use are Machine Learning, Python, Power BI, Tableau, Microsoft Excel and PostgressSQL.
 👯 I’m looking to collaborate on Data Science projects, Research papers especially in the areas of Machine Learn and Computer Vision.
 
 ---
@@ -30,5 +31,5 @@ I am a Data Scientist | Geospatial Scientist.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akojenuserah&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akojenuserah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
