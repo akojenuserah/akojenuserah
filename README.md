@@ -20,7 +20,9 @@
 I am a Data Scientist | Geospatial Scientist.
 
 👀 I am currently Studying Data Science and AI as a Women Techsters Fellow.
+
 👀 The tools I use are Machine Learning, Python, Power BI, Tableau, Microsoft Excel and PostgressSQL.
+
 👯 I’m looking to collaborate on Data Science projects, Research papers especially in the areas of Machine Learn and Computer Vision.
 
 ---
